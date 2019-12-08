@@ -1,0 +1,16 @@
+{
+  "name": "node-graphql-example",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "apollo-server-express": "^2.9.13",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^14.5.8"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
+}
